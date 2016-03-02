@@ -1,1 +1,6 @@
-This is your Chrome extension which replaces a word or phrase with a different word or phrase. 
+This is your Chrome extension which replaces the word 'Mughal' with 'Jugal'. 
+Instrauctions: 
+1. Download the files and unzip it 
+2. Got to chrome://extensions/ and enable 'Developer Mode'
+3. Click on 'Load unpacked extension...' and select the unzipped file
+4. Reload and you're ready to go! :) 
