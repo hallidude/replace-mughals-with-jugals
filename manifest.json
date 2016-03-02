@@ -1,8 +1,8 @@
 {
 "manifest_version": 2,
-    "name": "[your extension name here]",
-    "description": "[your extension description here]",
-    "version": "0.1",
+    "name": "Replace Mughals with Jugals",
+    "description": "This extension replaces the word Mughals with Jugals",
+    "version": "1",
     "content_scripts": [
         {
             "matches": [
